@@ -11,8 +11,8 @@ The colors and logo have been generated with [Namecheap Logomaker](https://www.n
 
 ## Colors
 
-- Primary color is **purple**: `#422b77`
-- Accent color is **coral**: `#e96d77`
+- Background color is **dark purple**: `#4a308d`
+- Logo color is **coral**: `#e96d77`
 
 ## Logo
 
