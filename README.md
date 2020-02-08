@@ -11,17 +11,9 @@ The colors and logo have been generated with [Namecheap Logomaker](https://www.n
 
 ## Colors
 
-- Background color is **dark purple**: `#4a308d`
+- Background color is **darkest purple**: `#191238`
 - Logo color is **coral**: `#e96d77`
 
 ## Logo
 
 It combines the concepts of a "record button" and "broadcasting waves".
-
-## SVGs
-
-Multiple variations of logo/name/tagline are available:
-
-- [Logo and name below each other](./logo-name-below)
-- [Logo and name beside each other](./logo-name-side)
-- [Logo, name and tagline below each other](./logo-name-tagline)
